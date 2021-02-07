@@ -57,7 +57,7 @@ function countDown(){
 }
 
 function moveMole(){
-    moleMover = setInterval(randomSquare, 700)
+    moleMover = setInterval(randomSquare, 1000)
 }
 
 function startGame(){
