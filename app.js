@@ -81,7 +81,7 @@ function stopGame(){
         clearInterval(counter)
     }
     // reset time
-    timeLeft.textContent = 5;
+    timeLeft.textContent = 60;
     currentTime = timeLeft.textContent;
     // reset score
     score.textContent = 0
